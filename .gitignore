@@ -3,6 +3,7 @@ bin/
 obj/
 
 # Visual Studio Files
+.vscode/
 .vs/
 *.user
 *.suo
